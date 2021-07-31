@@ -1,0 +1,9 @@
+{
+	"name": "chitadatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d324444b-f8e8-4fca-a8c1-5a7684518a07",
+		"tenantId": "6f913f88-4177-4b53-99eb-3a66413a9904"
+	}
+}
